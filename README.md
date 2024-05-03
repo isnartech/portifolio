@@ -4,7 +4,7 @@
   💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia!
 </p>
 <p align="center">
-  💻Cursando - desenvolvimeento de sistemas-SENAI -Lauro de Freitas,Bahia.
+  💻Cursando - desenvolvimento de sistemas-SENAI -Lauro de Freitas,Bahia.
 </p>
 <p align="center">
    Qual o proximo desafio?
