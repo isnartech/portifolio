@@ -21,6 +21,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-{isnarsantanna@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})<br><br>
 
-![LoroTV GitHub stats](https://github-readme-stats.vercel.app/api?username=isnartech&show_icons=true&theme=radical)
+![LoroTV GitHub stats](https://github-readme-stats.vercel.app/api?username=isnartech&show_icons=true&theme=vue-dark)
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
